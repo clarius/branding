@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xml:space="preserve"
-     height='36px' 
-     width='136px'>
-     <text x="13" y="24" font-size="18px">by</text>
-     <text fill="#0366d6" x="40" y="24" font-size="18px">@clarius</text>
+     height="36" 
+     width="90">
+     <text x="0" y="24" font-size="18px">by</text>
+     <text fill="#0366d6" x="25" y="24" font-size="18px">@clarius</text>
 </svg>
